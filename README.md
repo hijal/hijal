@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on C, C++, Python, JavaScript
 - 🤔 I’m looking for help with Programming, Gamming
 - 💬 Ask me about any kind of programming help
-- 📫 How to reach me: ![alt text](https://i.imgur.com/P3YfQoD.png) [](https://www.facebook.com/hhijal)
+- 📫 How to reach me: ![https://www.facebook.com/hhijal](https://i.imgur.com/P3YfQoD.png) [](https://www.facebook.com/hhijal)
 - 😄 Pronouns: H I J A L
 - ⚡ Fun fact: Gamming
 
