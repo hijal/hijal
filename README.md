@@ -8,6 +8,6 @@
 - 💬 Ask me about any kind of programming help
 - 📫 How to reach me: [![alt text](https://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/hhijal) , [![alt text](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/hiijal)
 - 😄 Pronouns: H I J A L
-- ⚡ Fun fact: <img src="https://image.flaticon.com/icons/png/512/720/720284.png" height="48" width="48" >
+- ⚡ Fun fact: <img src="https://image.flaticon.com/icons/png/512/720/720284.png" height="28" width="38" >
 
 
