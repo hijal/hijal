@@ -3,6 +3,8 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hijikesh-hijal-6115a5135/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/hhijal)
+[![Twitter Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/hiijal)
+[![Instagram Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/i_am_hijal/)
 
 ## Programming Languages
 
