@@ -16,7 +16,7 @@ About me:
 
 
 - 🔭 I’m currently working on [ShuttleBD](http://shuttlebd.com/)
-- 🌱 I’m currently learning NodeJs, JavaScript, React, Deno
+- 🌱 I’m currently learning NodeJs, JavaScript, Jquery, AJAX
 - 👯 I’m looking to collaborate on C, C++, Python, JavaScript
 - 🤔 I’m looking for help with Programming, Gamming
 - 💬 Ask me about any kind of programming help
