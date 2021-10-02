@@ -1,5 +1,5 @@
 ### Hey 👋
-### This is **hijal** 👋
+## This is **hijal** 👋
 
 In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
 
@@ -16,14 +16,7 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
 [![Twitter Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/hiijal)
 
 <hr />
-## Programming Languages
-
-```
-C/C++, JavaScript, NodeJs, React
-```
-<hr />
-About me:
-
+#### About me:
 - 🌱 I’m currently learning NodeJs, JavaScript, Jquery, AJAX
 - 👯 I’m looking to collaborate on C, C++, Python, JavaScript
 
