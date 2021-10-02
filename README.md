@@ -18,7 +18,6 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
 <hr />
 
 #### About me:
-- 🌱 I’m currently learning NodeJs, JavaScript, Jquery, AJAX
-- 👯 I’m looking to collaborate on C, C++, Python, JavaScript
+- 👯 I’m looking to collaborate on C, C++, Node.js, React, JavaScript
 
 
