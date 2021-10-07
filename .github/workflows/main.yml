@@ -1,0 +1,19 @@
+name: hijal DEV-Card Update
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+    
+  workflow_dispatch:
+  
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: hijal devcard
+        uses: dailydotdev/action-devcard@2.0.2
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
