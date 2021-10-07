@@ -1,6 +1,10 @@
 ### Hey 👋
 ## This is **hijal** 👋
 
+<p align="center">
+<a href="https://app.daily.dev/imh1j4l"><img src="https://api.daily.dev/devcards/9cafd408a0bb4775a0c8de9e649364ae.png?r=lmd" width="400" height="500" alt="Hijikesh Hijal's Dev Card"/></a>
+</p>
+
 In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
 
 ### ⚙️ &nbsp;GitHub Analytics
