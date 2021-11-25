@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/hijal/" target="_blank">Hijikesh Hijal</a>.<br> I'm a Full Stack Web Developer.<br><br>#javascript, #reactjs, #nextjs, #nodejs</samp>
+  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/hijal/" target="_blank">Hijikesh Hijal</a>.<br> I'm a Full Stack Web Developer.<br><br>#javascript, #nodejs, #vuejs</samp>
   <br>
   <br>
   <br>
