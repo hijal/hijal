@@ -11,7 +11,7 @@
         I'm a Full Stack Web Developer.
         <br />
         <br />
-        #Javascript, #Typescript, #Nodejs, #Expressjs, #MySQL, #PostgreSQL, #MongoDB, #Vuejs, #Svelte, #Sveltekit, #Docker, #Kubernetes
+        #Javascript, #Typescript, #Nodejs, Nestjs, #Expressjs, #MySQL, #PostgreSQL, #MongoDB, #Vuejs, #Svelte, #Sveltekit, #Docker, #Kubernetes
     </samp>
     <br />
     <br />
